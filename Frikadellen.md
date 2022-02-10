@@ -28,3 +28,5 @@
 3. Zwiebel und Knoblauch fein würfeln und anbraten.
 4. Sahne, Paniermehl, Petersilie, Thymian, Senf und Ei zu einer klebrigen Masse verrühren.
 5. Alles zusammen geben, Bällchen Formen und diese bei mittlerer Hitze mit Deckel anbraten.
+
+Credits to [crisartistry](https://github.com/crisartistry/recipes)
